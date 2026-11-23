@@ -1,5 +1,5 @@
 context:
-  version: "1.0.1"
+  version: "1.0.2"
 
 package:
   name: edcal
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/e/edcal/edcal-${{ version }}.tar.gz
-  sha256: f736a94aa10f8aaae32fcb3456111d277b361bdde3515c76e7366f5f03da89f9
+  sha256: e8ad85e86e1af6250bb2bb0a45dc2f594d3704a192ce181b6ca2fb95f8251617
 
 build:
   number: 0
